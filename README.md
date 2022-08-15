@@ -9,13 +9,13 @@ Desenvolvi uma versão para mobile, mas como precisei migrar de ambiente, acabei
 Clone o projeto
 
 ```bash
-  git clone https://github.com/renan-dias/challengeTwo
+  github.com/renan-dias/challenge2_pacman_clone.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd challengeTwo
+  cd /challenge2_pacman_clone
 ```
 
 Complie o projeto em uma APK
